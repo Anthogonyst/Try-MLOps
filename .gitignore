@@ -1,3 +1,18 @@
+### R Ignores ###
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
+*.Rproj
+*.lnk
+.Rproj.user
+*.DS_Store
+*Thumbs.db
+.env
+env/
+
+
+### Python Ignores ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
